@@ -2,7 +2,7 @@
 
 An autonomous agent that labels and prioritizes GitHub issues and pull requests using an LLM-driven rubric, and re-checks its past decisions to correct itself as new activity comes in.
 
-**Live demo and project walkthrough:** https://sharongadi2022.github.io/github-triage-agent/
+**Live demo and project walkthrough:** [https://sharongadi2022.github.io/github-triage-agent/](https://sharongadi2022.github.io/Github-Triage-Agent/)
 
 ## How it works
 
